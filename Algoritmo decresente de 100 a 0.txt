@@ -1,0 +1,12 @@
+funcao inicio()
+    {
+    inteiro num, resultado
+        escreva("Digite um numero\n")
+        leia (num)
+    }
+        para (inteiro i =100;i <=1; i--){
+            escreva(num,"**",i,"=",resultado= num*i,"\n")
+           
+        }
+    }
+}
